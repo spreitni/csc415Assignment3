@@ -1,0 +1,7 @@
+is the time between 2PM and 7PM answer Y or N: Y
+Path found: ['S42A8', 'S43A8', 'S43A9', 'S43A10', 'S43A11', 'S44A11', 'S45A11', 'S46A11', 'S46A12']
+
+>>> %Run assignment3.py
+
+is the time between 2PM and 7PM answer Y or N: N
+Path found: ['S42A8', 'S43A8', 'S44A8', 'S45A8', 'S46A8', 'S46A9', 'S46A10', 'S46A11', 'S46A12']
